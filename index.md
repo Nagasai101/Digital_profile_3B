@@ -1,27 +1,23 @@
-Johnny Coder
+Nagasai
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+email                        yalakantinagasai@gmail.com
+stdid                         123456
+phoneno                       568974120
+linkedin                     [link](https://in.linkedin.com/).
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2018-2022 (expected)
+:   **b.tech, Computer Science**; rvr&jcce(MyTown)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
-
+2016-2018
+:    **intermediate,mpc,narayana(my town)
 Experience
 ----------
 
@@ -40,9 +36,8 @@ links:
 
 Also with a short description.
 
-Technical Experience
+Technical skills
 --------------------
-
 My Cool Side Project
 :   For items which don't have a clear time ordering, a definition
     list can be used to have named items.
@@ -75,7 +70,7 @@ Programming Languages
 :   **obscure-but-impressive-lang:** We both know this one's pushing
     it.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   Basic knowledge of **C**, **html**, **python**, **java**
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
@@ -84,10 +79,8 @@ Extra Section, Call it Whatever You Want
 
 * Human Languages:
 
-     * English (native speaker)
+     * English (read/write)
+     * Telugu (native speaker)
      * ???
      * This is what a nested list looks like.
 
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
